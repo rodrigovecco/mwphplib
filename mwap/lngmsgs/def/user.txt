@@ -1,0 +1,14 @@
+user_name Nombre de usuario
+active Activo
+complete_name Nombre completo
+change_password Modificar contraseña
+password Contraseña
+confirm_password Confirmar contraseña
+password_must_have_at_least_x_chars La contraseña debe tener al menos %n% caracteres
+password_cant_have_more_than_x_chars La contraseña no debe tener más de %n% caracteres
+password_does_not_match La contraseña no coincide
+rols Roles
+email Email
+phonenumber Phone number
+timeZoneId Time zone
+user_created Usuario creado

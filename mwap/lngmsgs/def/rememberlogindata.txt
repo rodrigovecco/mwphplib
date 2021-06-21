@@ -1,0 +1,4 @@
+rememberlogindata Recuperar datos de acceso
+link_to_ui_txt No recuerdo mis datos de acceso
+email Correo
+send Enviar

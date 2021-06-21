@@ -1,0 +1,10 @@
+[[user.full_name]],
+Tus datos de acceso para [[app.sitename]] son los siguientes.
+Nombre de usuario: [[user.idname]]
+Contraseña: [[user.new_password]]
+
+
+URL: [[ui.login_url]]
+
+
+[[app.sitename]]

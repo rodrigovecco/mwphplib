@@ -1,0 +1,13 @@
+input_captcha_code Enter verification code
+my_account My account
+user User
+edit_user Edit user
+not_allowed Not allowed
+termOfService Terms of Service
+termsOfService Terms Of Service
+privacyPolicy Privacy Policy
+profile_img Profile image
+editar Edit
+enter_a_valid_email Enter a valid email
+change_image Change image
+LCoperators operators

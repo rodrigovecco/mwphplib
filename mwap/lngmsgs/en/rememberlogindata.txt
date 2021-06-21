@@ -1,0 +1,2 @@
+rememberlogindata Retrive access credentials
+link_to_ui_txt Forgot your password?

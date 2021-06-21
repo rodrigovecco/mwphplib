@@ -1,0 +1,8 @@
+home Home
+login Login
+user User
+password Password
+submit Submit
+field_required Field required
+please_wait Please, wait
+seconds_lc seconds

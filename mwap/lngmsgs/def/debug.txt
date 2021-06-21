@@ -1,0 +1,4 @@
+panels Paneles
+tables Tablas
+alerts Alertas
+others Otros

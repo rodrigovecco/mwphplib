@@ -1,0 +1,23 @@
+fixcontent Fix content
+TOS TOS
+privacyPolicy Privacy Policy
+welcomeText Welcome Text
+locations Locations
+not_allowed No permitido
+LCcreated creado
+country Country
+timeZone Time Zone
+enabled Enabled
+LCdeleted eliminado
+operators Operators
+operator Operator
+main Main
+disabled Disabled
+registrycreated Registro creado
+unableToCreateElement No se pudo crear el elemento.
+cant_eliminate No se pudo eliminar
+specialities Specialities
+languages Languages
+bodymaps Body maps
+bodymap bodymap
+image Image

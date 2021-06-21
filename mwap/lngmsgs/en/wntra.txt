@@ -1,0 +1,20 @@
+fixcontent Fix content
+TOS TOS
+privacyPolicy Privacy Policy
+welcomeText Welcome Text
+locations Locations
+not_allowed Not allowed
+LCcreated created
+country Country
+timeZone Time Zone
+enabled Enabled
+LCdeleted deleted
+operators Operators
+operator Operator
+main Main
+disabled Disabled
+registrycreated Entry created
+unableToCreateElement Unable to create element.
+cant_eliminate Unable to delete
+bodymaps Body maps
+bodymap Body Map

@@ -1,0 +1,14 @@
+user_name User name
+active Enabled
+complete_name Full name
+change_password Change password
+password Password
+confirm_password COnfirm passowrd
+password_must_have_at_least_x_chars Password must have at least %n% characteres
+password_cant_have_more_than_x_chars Password must have more than %n% characteres
+password_does_not_match Password does not match
+rols Roles
+email Email
+phonenumber Phone number
+timeZoneId Time zone
+user_created User created

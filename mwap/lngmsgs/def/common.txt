@@ -1,0 +1,25 @@
+home Home
+login Login
+user User
+password Password
+submit Submit
+field_required Data required
+please_wait Please, wait
+seconds_lc seconds
+invalid_user_or_password User name or password not valid
+users Users
+my_account My account
+new_user New user
+name Name
+rols Roles
+active Enabled
+yes Yes
+no No
+configuration Configuration
+fixcontent Fix content
+not_allowed Not allowed
+save Save
+modulos Modules
+create Create
+there_are_X_OBJS_related There are %num% related %objs%.
+session_has_expired La sesión ha expirado

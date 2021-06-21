@@ -1,0 +1,4 @@
+panels Panels
+tables Tables
+alerts Alers
+others Others

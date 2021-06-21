@@ -1,0 +1,15 @@
+[[user.full_name]],
+Tus datos de acceso para [[app.sitename]] son los siguientes.
+Nombre de usuario: [[user.idname]]
+URL: [[ui.login_url]]
+
+Para reestablacer tu contraseña ingresa a la siguiente URL
+[[ui.reset_pass_url]]
+Ingresa los siguientes datos:
+Usuario: [[user.idname]]
+Código de reestablecimiento de contraseña: [[user.reset_pass_code]]
+
+O accede al siguiente link:
+[[ui.reset_pass_url_full]]
+
+[[app.sitename]]
